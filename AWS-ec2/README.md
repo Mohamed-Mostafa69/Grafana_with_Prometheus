@@ -1,4 +1,4 @@
-##Using AWS
+# Using AWS
 
 - Make AWS IAM User Store Access Key
 - Create ssh Key for connecting to instance
